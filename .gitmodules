@@ -4,3 +4,6 @@
 [submodule "evil-numbers"]
 	path = evil-numbers
 	url = https://github.com/cofi/evil-numbers.git
+[submodule "Emacs-Groovy-Mode"]
+	path = Emacs-Groovy-Mode
+	url = https://github.com/russel/Emacs-Groovy-Mode.git
